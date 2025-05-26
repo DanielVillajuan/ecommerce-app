@@ -1,0 +1,152 @@
+{
+  "products": [
+    {
+      "imagen": "https://img.playbook.com/n8Fubv6PyrLKGtWMMhJAtx0kfhzr2ZvqE8nsNstdoow/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzM0ZTMzODRi/LTg4NmMtNDAyOS1i/NTM5LTA0ZTEyZmYy/ZGY1OA",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et odio corrupti enim unde saepe consectetur culpa minima sed tempora voluptatibus!",
+      "titulo": "Graduation",
+      "precio": 14500,
+      "stock": 8,
+      "color": "oscuro",
+      "id": "18JuZglDCbPOk8YVkkmT"
+    },
+    {
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et odio corrupti enim unde saepe consectetur culpa minima sed tempora voluptatibus!",
+      "precio": 9000,
+      "imagen": "https://img.playbook.com/8wXgo77UQlqoMliNd96RTr4IRucWAH9tSzEvDLRymCw/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzM5MjAxODZi/LTQ0MjYtNGY0OS05/MjVkLTQ0ZjUyOTk0/NGFkNQ",
+      "titulo": "Across the spiderverse",
+      "color": "claro",
+      "stock": 16,
+      "id": "20lrGRuR69mGvLZNxZt9"
+    },
+    {
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et odio corrupti enim unde saepe consectetur culpa minima sed tempora voluptatibus!",
+      "precio": 9000,
+      "color": "oscuro",
+      "stock": 9,
+      "titulo": "Across the spiderverse",
+      "imagen": "https://img.playbook.com/soyGZ8fJ96lf1yqJCQrlq_1ZPU6-nyuLQlJCp21miBA/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljL2VkZjMxMmQ2/LWJjNDAtNDgxMy05/NWVhLWIzYWVlMzgx/ODQ2Mw",
+      "id": "5pOVDTHyTKnamUfuhV0W"
+    },
+    {
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et odio corrupti enim unde saepe consectetur culpa minima sed tempora voluptatibus!",
+      "color": "oscuro",
+      "imagen": "https://img.playbook.com/RB54b3o6gB377Cpf1KN3AIxjtvYyR0KjjfaTJb0XQww/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzFjYTUxMTIy/LTMwNWMtNGY1OC1h/ZjI2LWYxMjM3YTAx/NWMxNg",
+      "stock": 3,
+      "titulo": "Currents",
+      "precio": 10500,
+      "id": "61oWVBRiNVxsKdIRmead"
+    },
+    {
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et odio corrupti enim unde saepe consectetur culpa minima sed tempora voluptatibus!",
+      "color": "oscuro",
+      "stock": 10,
+      "titulo": "To pimp a butterfly",
+      "imagen": "https://img.playbook.com/cG4DHjBhh9c25Mrbm1tbA5bHvgbEJ7dh-SPwSA1vgPs/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzVmZTAxMjVi/LTZiMTctNDI2NC04/ZDIzLWI1YWUyY2Qz/YTI2NA",
+      "precio": 15000,
+      "id": "6mnvt0aytAhfxtG3vvBx"
+    },
+    {
+      "stock": 12,
+      "precio": 11000,
+      "color": "oscuro",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et odio corrupti enim unde saepe consectetur culpa minima sed tempora voluptatibus!",
+      "imagen": "https://img.playbook.com/f-7r311siwQg8JkTxZqhfaWVVC3SiTeIsrVFrHdDlvM/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljL2Q0MDc3Mjg0/LWY2ZjMtNGZkOS04/OGY2LTk3YzgyZDJk/ZDk3NQ",
+      "titulo": "OSCURO ÉXTASIS",
+      "id": "G1soaDkdOe6h5uFUc8RV"
+    },
+    {
+      "imagen": "https://img.playbook.com/I4Pcs2eH-EqV-zZYAfX01AUhOwLk9lDA_Un3vxtc9yw/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzI3ZGEyZTU2/LWE0ZjUtNGU4NC1h/MmVmLTlhYjdhZjM0/YjlhNQ",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et odio corrupti enim unde saepe consectetur culpa minima sed tempora voluptatibus!",
+      "color": "claro",
+      "precio": 11000,
+      "titulo": "OSCURO ÉXTASIS",
+      "stock": 7,
+      "id": "NCBnRkd0N6WK1DHzArnT"
+    },
+    {
+      "titulo": "To pimp a butterfly",
+      "stock": 6,
+      "precio": 15000,
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et odio corrupti enim unde saepe consectetur culpa minima sed tempora voluptatibus!",
+      "imagen": "https://img.playbook.com/FEg_UK_RXvuVw46gciIFvTBhlIJd6LHy2ZfGAwHJBPY/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljL2U3NTBiNTM0/LWExNmEtNGVhMi1i/MTA4LTU5YjljNzdi/MjI0Nw",
+      "color": "claro",
+      "id": "OldsInCHejOkXZwnEfqF"
+    },
+    {
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et odio corrupti enim unde saepe consectetur culpa minima sed tempora voluptatibus!",
+      "color": "claro",
+      "titulo": "Currents",
+      "stock": 10,
+      "precio": 9000,
+      "imagen": "https://img.playbook.com/ngD_kYMBOaq_jijEGOpNUPGF-7GQ6DyRP8ybk8TmqnY/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzE2ZTQzODc3/LTI2YTAtNGRiNy1h/YjcxLWQ4NzU1YTMx/MDZjNA",
+      "id": "PCeOyX9WWU53fiKCz3XB"
+    },
+    {
+      "titulo": "Happier than ever",
+      "color": "claro",
+      "decripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et odio corrupti enim unde saepe consectetur culpa minima sed tempora voluptatibus!",
+      "stock": 10,
+      "precio": 9500,
+      "imagen": "https://img.playbook.com/HLAKPxWA_OB5yphk9yXQy4iDhYGgSkDaxeFarCIg0ag/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzA2MmIyOGVi/LWNmM2MtNDUxYy1h/MDIxLTEwMmVhNjI1/NjQyNg",
+      "id": "RopVkQXGnxrRRVHEFrTi"
+    },
+    {
+      "titulo": "Short n' Sweet",
+      "color": "oscuro",
+      "imagen": "https://img.playbook.com/rth8TFoJoYZSE15_C9RtvRqV9xMEetoS73z8NbSFIKM/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzNkZTljMjZk/LTQ3YWEtNDIzYi1h/MzdjLTk4NTZhNmFj/NTQ3ZQ",
+      "stock": 2,
+      "precio": 12500,
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et odio corrupti enim unde saepe consectetur culpa minima sed tempora voluptatibus!",
+      "id": "aediXUoHj2zbDTcJpUqM"
+    },
+    {
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et odio corrupti enim unde saepe consectetur culpa minima sed tempora voluptatibus!",
+      "precio": 12500,
+      "titulo": "Short n' Sweet",
+      "imagen": "https://img.playbook.com/-9x1e4d50R8yWxmpgThJ3E_fFTbqG7cdICtukeBsmZk/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzEwZWZkNjc0/LTY3ODUtNGFiNS05/YjQzLTVjZjg5MWRm/YzFhMQ",
+      "color": "claro",
+      "stock": 0,
+      "id": "eZaGYxzuZ9HBV5yufTuK"
+    },
+    {
+      "precio": 14500,
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et odio corrupti enim unde saepe consectetur culpa minima sed tempora voluptatibus!",
+      "titulo": "Graduation",
+      "stock": 14,
+      "imagen": "https://img.playbook.com/GqbM0QJFWmeCWebiUNWBS2xzRgLUodkC3WvvtIBrx8A/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzRmZDRlM2I5/LTg3YTgtNGEyYS1h/ODY5LTVjMDVkYzcw/ODA5MA",
+      "color": "claro",
+      "id": "k6a2ZTgJQvW651ZRdXP5"
+    },
+    {
+      "imagen": "https://img.playbook.com/zDQdO59_j7VQv31iRYG3LhWAUbtgs19Q6pNXlrrt7cE/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljL2E5MWVlZDI1/LThiMmUtNDJkYy05/NmI1LTdkOTY5NmU4/YjQ2ZA",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et odio corrupti enim unde saepe consectetur culpa minima sed tempora voluptatibus!",
+      "stock": 15,
+      "titulo": "HIT ME HARD AND SOFT",
+      "precio": 11000,
+      "color": "oscuro",
+      "id": "pZiCVZnuRaGv7LnxXBR7"
+    },
+    {
+      "titulo": "Happier than ever",
+      "stock": 18,
+      "imagen": "https://img.playbook.com/pPpoLUqn5KYoNk0UL6C_Kc1J1-OVxxz3rcswoNtZauk/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljL2FhMGE2ZDM3/LTY0NjMtNDZiYi05/NTI5LWNkN2U1OTRj/ZWNjNw",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et odio corrupti enim unde saepe consectetur culpa minima sed tempora voluptatibus!",
+      "color": "oscuro",
+      "precio": 9500,
+      "id": "uT4zzpsgl0oEQLJJ5ZRA"
+    }
+  ],
+  "cart": {
+    "items": [
+      {
+        "id": "18JuZglDCbPOk8YVkkmT",
+        "cantidad": 1,
+        "titulo": "Graduation",
+        "precio": 14500,
+        "imagen": "https://img.playbook.com/n8Fubv6PyrLKGtWMMhJAtx0kfhzr2ZvqE8nsNstdoow/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzM0ZTMzODRi/LTg4NmMtNDAyOS1i/NTM5LTA0ZTEyZmYy/ZGY1OA"
+      }
+    ],
+    "total": 0,
+    "cantidad": 0
+  }
+}
