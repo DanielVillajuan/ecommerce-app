@@ -136,17 +136,41 @@
       "id": "uT4zzpsgl0oEQLJJ5ZRA"
     }
   ],
-  "cart": {
-    "items": [
-      {
-        "id": "18JuZglDCbPOk8YVkkmT",
-        "cantidad": 1,
-        "titulo": "Graduation",
-        "precio": 14500,
-        "imagen": "https://img.playbook.com/n8Fubv6PyrLKGtWMMhJAtx0kfhzr2ZvqE8nsNstdoow/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzM0ZTMzODRi/LTg4NmMtNDAyOS1i/NTM5LTA0ZTEyZmYy/ZGY1OA"
-      }
-    ],
-    "total": 0,
-    "cantidad": 0
-  }
+  "cart": [
+    {
+      "id": "18JuZg346lLsbPOk8YVkkmT",
+      "items": [
+        {
+          "id": "18JuZglDCbPOk8YVkkmT",
+          "cantidad": 2,
+          "titulo": "Graduation",
+          "precio": 14500,
+          "imagen": "https://img.playbook.com/n8Fubv6PyrLKGtWMMhJAtx0kfhzr2ZvqE8nsNstdoow/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzM0ZTMzODRi/LTg4NmMtNDAyOS1i/NTM5LTA0ZTEyZmYy/ZGY1OA"
+        },
+        {
+          "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et odio corrupti enim unde saepe consectetur culpa minima sed tempora voluptatibus!",
+          "precio": 9000,
+          "color": "oscuro",
+          "stock": 9,
+          "titulo": "Across the spiderverse",
+          "imagen": "https://img.playbook.com/soyGZ8fJ96lf1yqJCQrlq_1ZPU6-nyuLQlJCp21miBA/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljL2VkZjMxMmQ2/LWJjNDAtNDgxMy05/NWVhLWIzYWVlMzgx/ODQ2Mw",
+          "id": "5pOVDTHyTKnamUfuhV0W",
+          "cantidad": 1
+        },
+        {
+          "titulo": "To pimp a butterfly",
+          "stock": 6,
+          "precio": 15000,
+          "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et odio corrupti enim unde saepe consectetur culpa minima sed tempora voluptatibus!",
+          "imagen": "https://img.playbook.com/FEg_UK_RXvuVw46gciIFvTBhlIJd6LHy2ZfGAwHJBPY/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljL2U3NTBiNTM0/LWExNmEtNGVhMi1i/MTA4LTU5YjljNzdi/MjI0Nw",
+          "color": "claro",
+          "id": "OldsInCHejOkXZwnEfqF",
+          "cantidad": 1
+        }
+      ],
+      "totalPrice": 38500,
+      "totalItems": 3,
+      "signal": {}
+    }
+  ]
 }

@@ -1,5 +1,5 @@
 import { http } from '.'
-import type { ProductType } from '../types/products'
+import type { ProductType } from '../types'
 
 export class Products {
     static async getProducts(): Promise<ProductType[] | null> {
