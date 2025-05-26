@@ -30,7 +30,7 @@ export class HttpRequest {
         data?: T,
         params?: AxiosRequestConfig,
     ): Promise<T> {
-        const config: AxiosRequestConfig = { ...params, data }
+        const config: AxiosRequestConfig = { ...params, ...data }
         return await this.request(METHODS.POST, { endpoint, params: config })
     }
     async put<T>(
@@ -38,7 +38,7 @@ export class HttpRequest {
         data?: T,
         params?: AxiosRequestConfig,
     ): Promise<T> {
-        const config: AxiosRequestConfig = { ...params, data }
+        const config: AxiosRequestConfig = { ...params, ...data }
         return await this.request(METHODS.PUT, { endpoint, params: config })
     }
     async delete<T>(endpoint: string, params?: AxiosRequestConfig): Promise<T> {
